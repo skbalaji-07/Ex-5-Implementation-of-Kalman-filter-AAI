@@ -8,7 +8,7 @@
 
 ## Aim:
 
-To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
+To construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 
 ## Algorithm:
 
